@@ -12,14 +12,28 @@ let partits = [
         logo: "img/psc.svg",
         color: "rgba(219,8,21,0.7)",
         bgColor: "rgba(219,8,21,1)"
-    },
-    {
+    },{
+name: "Blanc",
+votes: 0,
+logo: "img/psc.svg",
+color: "white",
+bgColor: "white"
+    },{
         name: "Comuns",
         votes: 0,
         logo: "img/pdem.png",
         color: "rgba(169,35,92,0.7)",
         bgColor: "rgba(169,35,92,1)"
     },
+{
+
+name: "Nul",
+votes: 0,
+logo: "img/psc.svg",
+color: "white",
+bgColor: "white"
+
+},
     {
         name: "Cs",
         votes: 0,
