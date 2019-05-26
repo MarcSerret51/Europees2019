@@ -14,13 +14,6 @@ let partits = [
         bgColor: "rgba(219,8,21,1)"
     },
     {
-        name: "ADA",
-        votes: 0,
-        logo: "img/ada.png",
-        color: "rgba(17,15,114,1)",
-        bgColor: "rgba(17,15,114,1)"
-    },
-    {
         name: "Comuns",
         votes: 0,
         logo: "img/pdem.png",
@@ -51,197 +44,183 @@ let partits = [
     {
         name: "IniciativaFeminista",
         votes: 0,
-        logo: "img/ppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "purple",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "CoalicóEuropaSolidaria",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "azure",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "AlternativaRepublicana",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "bisque",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "CentristasPorEuropa",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "aliceblue",
         bgColor: "rgba(0,158,219,1)"
-    },
+    }, 
     {
         name: "PCPE-PCPC-PCPA",
         votes: 0,
         logo: "img/pp.png",
-        color: "rgba(0,158,219,0.7)",
+        color: "red",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "PerUnMonMesJust",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "brown",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "CorrienteRoja",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "CadetBlue",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "ContigoDemocracia",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "ChartReuse",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Falanges",
         votes: 0,
-        logo: "img/pp.ng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "chocolate",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Pacma",
         votes: 0,
-        logo: "img/pp.ng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "coral",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Vox",
         votes: 0,
-        logo: "img/p.png",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "green",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "IgualdadReal",
         votes: 0,
-        logo: "img/pp.pg",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "cyan",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Pirates",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "CornFlowerBlue",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Partido Humanista",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DarkGoldenRod",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "AndaluciaPorSI",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DarkKhaki",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Actua",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DarkRed",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "CompromisXEuropa",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DarkSalmon",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "EuropeosLatinos",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DarkSlateGrey",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "IzquierdaEnPositivo",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DeepPink",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "ExtremeñosPrex",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "DodgerBlue",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "Recortes zero",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "FireBrick",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "VerdeEuropaCiutadana",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "Fuchsia",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "VOLTEuropa",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "Gold",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "ForoDeCiudadanos",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "HotPink",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "PartitComunistaCatalunya",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "carmesi",
         bgColor: "rgba(0,158,219,1)"
     },
     {
         name: "SolidaridadYAutogestion",
         votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "",
-        votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "Pirates",
-        votes: 0,
-        logo: "img/pppng",
-        color: "rgba(0,158,219,0.7)",
+        logo: "img/pp.png",
+        color: "Indigo",
         bgColor: "rgba(0,158,219,1)"
     },
 ];
