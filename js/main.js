@@ -36,7 +36,7 @@ bgColor: "white"
         
         name: "Mas país",
         votes: 0,
-        logo: "img/null.png",
+        logo: "img/errejon.jpg",
         color: "blue",
         bgColor: "blue"
         
