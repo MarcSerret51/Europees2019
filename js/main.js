@@ -26,12 +26,21 @@ logo: "img/blank.jpg",
 color: "white",
 bgColor: "white"
     },{
-        name: "Comuns",
+        name: "Podem Comuns",
         votes: 0,
         logo: "img/pdem.png",
         color: "rgba(169,35,92,0.7)",
         bgColor: "rgba(169,35,92,1)"
     },
+    {
+        
+        name: "Mas país",
+        votes: 0,
+        logo: "img/null.png",
+        color: "blue",
+        bgColor: "blue"
+        
+        },
 {
 
 name: "Nul",
@@ -70,28 +79,14 @@ bgColor: "white"
         bgColor: "rgba(0,158,219,1)"
     },
     {
-        name: "CoalicóEuropaSolidaria",
+        name: "PCPC",
         votes: 0,
         logo: "img/garu.jpg",
-        color: "azure",
+        color: "red",
         bgColor: "rgba(0,158,219,1)"
     },
     {
-        name: "AlternativaRepublicana",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "bisque",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "CentristasPorEuropa",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "aliceblue",
-        bgColor: "rgba(0,158,219,1)"
-    }, 
-    {
-        name: "PCPE-PCPC-PCPA",
+        name: "PCTC",
         votes: 0,
         logo: "img/garu.jpg",
         color: "red",
@@ -102,27 +97,6 @@ bgColor: "white"
         votes: 0,
         logo: "img/garu.jpg",
         color: "brown",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "CorrienteRoja",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "CadetBlue",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "ContigoDemocracia",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "ChartReuse",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "Falanges",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "chocolate",
         bgColor: "rgba(0,158,219,1)"
     },
     {
@@ -140,66 +114,10 @@ bgColor: "white"
         bgColor: "rgba(0,158,219,1)"
     },
     {
-        name: "IgualdadReal",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "cyan",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "Pirates",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "CornFlowerBlue",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "Partido Humanista",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DarkGoldenRod",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "AndaluciaPorSI",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DarkKhaki",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "Actua",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DarkRed",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "CompromisXEuropa",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DarkSalmon",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "EuropeosLatinos",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DarkSlateGrey",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
         name: "IzquierdaEnPositivo",
         votes: 0,
         logo: "img/garu.jpg",
         color: "DeepPink",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "ExtremeñosPrex",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "DodgerBlue",
         bgColor: "rgba(0,158,219,1)"
     },
     {
@@ -210,38 +128,10 @@ bgColor: "white"
         bgColor: "rgba(0,158,219,1)"
     },
     {
-        name: "VerdeEuropaCiutadana",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "Fuchsia",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "VOLTEuropa",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "Gold",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "ForoDeCiudadanos",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "HotPink",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
         name: "PartitComunistaCatalunya",
         votes: 0,
         logo: "img/garu.jpg",
         color: "carmesi",
-        bgColor: "rgba(0,158,219,1)"
-    },
-    {
-        name: "SolidaridadYAutogestion",
-        votes: 0,
-        logo: "img/garu.jpg",
-        color: "Indigo",
         bgColor: "rgba(0,158,219,1)"
     },
 ];
